@@ -43,13 +43,13 @@ Some objects with brightness values close to the background were not fully detec
 
 
 
-### 4. Conclusion
+### 3. Conclusion
 
 In this part of the lab, a complete segmentation pipeline was implemented and tested using a simulated RoboDK image. The results demonstrate how grayscale conversion, thresholding, and connected component analysis can be combined to detect object locations. This pipeline serves as a foundation for processing real images.
 
 
 
-### 5. Figures
+### 4. Figures
 
 - Original simulated image  
 ![alt text](fig1_original.png)
@@ -61,7 +61,7 @@ In this part of the lab, a complete segmentation pipeline was implemented and te
 ![alt text](fig4_annotated.png)
 
 
-## Discussion
+## 5.Discussion
 
 ### Which thresholding method gave the most stable results?
 
