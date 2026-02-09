@@ -4,7 +4,7 @@
  https://github.com/enamulhqdk/Machine_vision_segmentation04  
 
 **Group members:**  
-Ariba Mayeesha , Choton Enamul , Ifty Fardin , Nizam Sabiha , Taqi Muhammad  
+Choton Enamul , Ifty Fardin , Nizam Sabiha , Taqi Muhammad  
 
 **Course:** Machine vision  
 **Date:** 06/02/2026  
